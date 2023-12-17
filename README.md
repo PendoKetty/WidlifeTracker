@@ -9,6 +9,6 @@ An application that helps Rangers track and record wildlife sightings.
 2. Create a production database.
 
 # Languages Used
-1. Java
-2. Spark
-3. PostgreSQL
+1. Spark
+2. PostgreSQL
+3. Java
