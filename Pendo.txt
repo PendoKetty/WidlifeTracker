@@ -1,8 +1,0 @@
-Database set up
-Schemas
-Indexes
-
-
-Optimize query running time
-
-indexes and where clause
