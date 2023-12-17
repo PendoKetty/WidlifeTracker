@@ -2,7 +2,7 @@
 Wildlife Tracker
 
 # Description
-An application that helps Rangers track and record wildlife sightings.
+An application that helps Rangers track and record wildlife sightings during their patrols.
 
 # Database Setup
 1. Install PostgreSQL: [PostgreSQL Installation Guide](https://www.postgresql.org/download/)
